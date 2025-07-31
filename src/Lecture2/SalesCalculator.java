@@ -6,7 +6,6 @@ public class SalesCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Input
         System.out.print("Enter unit price: ");
         double unitPrice = scanner.nextDouble();
 
