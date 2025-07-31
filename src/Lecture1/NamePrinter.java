@@ -1,4 +1,4 @@
-package Exercise1;
+package Lecture1;
 
 public class NamePrinter {
     public static void main(String[] args) {

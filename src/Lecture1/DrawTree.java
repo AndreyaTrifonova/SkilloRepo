@@ -1,4 +1,4 @@
-package Exercise1;
+package Lecture1;
 
 public class DrawTree {
     public static void main(String[] args) {
