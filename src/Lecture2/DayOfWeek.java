@@ -8,8 +8,8 @@ public class DayOfWeek {
         System.out.print("Enter a number (1-7): ");
         int dayNumber = sc.nextInt();
 
-        String dayName = "";
-        String suffix = "";
+        String dayName;
+        String suffix;
 
         switch (dayNumber) {
             case 1:
