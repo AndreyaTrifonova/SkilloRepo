@@ -2,9 +2,9 @@ package Lecture6;
 
 public class Exercise1 {
     public static void main(String[] args) {
-        double sideA = 12.23;
-        double sideB = 12.23;
-        double sideC = 12.23;
+        double sideA = 8.5;
+        double sideB = 8.5;
+        double sideC = 5.0;
         if(!(isPositiveNumber(sideA) && isPositiveNumber(sideB) && isPositiveNumber(sideC))){
             System.out.println("Sides must be positive numbers");
         }
