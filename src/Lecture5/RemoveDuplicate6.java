@@ -26,7 +26,7 @@ public class RemoveDuplicate6 {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {4, 5, 9, 4, 5, 7, 9, 1};
+        int[] numbers = {4, 5, 9, 4, 5, 7, 9, 1, 1};
         int[] uniqueNumbers = removeDuplicates(numbers);
 
         System.out.println("Original array: " + Arrays.toString(numbers));
